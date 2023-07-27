@@ -2,6 +2,9 @@
 Stable Diffusion Webui Extension to allow Lora folders to be collapsed by clicking on them
 
 ### Preview
+
+https://github.com/HeartlessAUS/sd-web-ui-collapsable-folders/assets/47524314/de9ff188-08ba-4c96-8daf-bd735b178163
+
 Collapsing and Uncollapsing
 
 ### Install
