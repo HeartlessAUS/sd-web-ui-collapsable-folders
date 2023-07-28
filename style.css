@@ -1,0 +1,14 @@
+.extra-networks .extra-network-subdirs{
+  flex-wrap:nowrap;
+  flex-direction: column;
+  overflow-y: scroll;
+  padding: 12px 0 !important
+}
+.extra-networks .extra-network-subdirs>button{
+  max-width: 95%;
+  min-width: 70%;
+  flex: 0;
+}
+.extra-network-subdirs br{
+  display: none;
+}
